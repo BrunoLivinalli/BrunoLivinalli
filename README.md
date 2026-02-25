@@ -25,39 +25,39 @@ No momento, estou em busca de um estágio ou oportunidade no mercado de tecnolog
     title="CSS" 
     width="30px" 
     style="padding-right: 10px;" 
-    src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png)>
+    src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png>
 
 <img align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="JavaScript"
+    title="JavaScript" 
     width="30px" 
     style="padding-right: 10px;" 
-    src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png)>
+    src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png>
 
 <img align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Python"
+    title="Python" 
     width="30px" 
     style="padding-right: 10px;" 
-    src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png)>
+    src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png>
 
 <img align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Git"
+    title="Git" 
     width="30px" 
     style="padding-right: 10px;" 
-    src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png)>
+    src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png>
 
 <img align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="GitHub"
+    title="GitHub" 
     width="30px" 
     style="padding-right: 10px;" 
-    src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png)>
+    src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png>
 
 <img align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="VSCode"
+    title="VSCode" 
     width="30px" 
     style="padding-right: 10px;" 
-    src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png)>
+    src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png>
