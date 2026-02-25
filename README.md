@@ -21,8 +21,8 @@ No momento, estou em busca de um estágio ou oportunidade no mercado de tecnolog
     src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png>
     
 <img align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="CSS"
+    title="CSS" 
     width="30px" 
     style="padding-right: 10px;" 
     src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png)>
