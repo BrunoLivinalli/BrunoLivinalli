@@ -13,10 +13,51 @@ No momento, estou em busca de um estágio ou oportunidade no mercado de tecnolog
 
 ## 📘 Tecnologias que estudo
 
-[**HTML5**](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png)
-[**CSS3**](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png)
-[**JavaScript**](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png)
-[**Python**](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png)
-[**Git**](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png)
-[**GitHub**](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png)
-[**VSCode**](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png)
+<img align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png>
+    
+<img align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png)>
+
+<img align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png)>
+
+<img align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png)>
+
+<img align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png)>
+
+<img align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png)>
+
+<img align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png)>
